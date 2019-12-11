@@ -1,0 +1,2 @@
+C:\Users\Usuário\source\repos\Heraca\Heraca\obj\Debug\Heraca.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Heraca\Heraca\obj\Debug\Heraca.csproj.CoreCompileInputs.cache
